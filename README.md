@@ -1,8 +1,16 @@
 <div align="center">
- Acesse https://devwmauriciu.github.io/meusLinks/
+  <img src="img/gemeos-cortada.jpg" alt="gemeos no colo" style="border-radius:50%; width: 350px;">
 </div>
 <br/>
 <div align="center">
-  
-  ![Texto alternativo da imagem](Meus%20links.png)
+  <p>
+    Acesse <a href="https://devwmauriciu.github.io/meusLinks/" target="_blank">https://devwmauriciu.github.io/meusLinks/</a>
+  </p>
+</div>
+<br/>
+<br/>
+<div align="center">
+  <a href="https://devwmauriciu.github.io/meusLinks/" target="_blank">
+    <img src="img/Meus links.png">
+  </a>
 </div>
