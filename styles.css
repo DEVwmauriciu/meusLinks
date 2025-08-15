@@ -14,9 +14,13 @@ body {
 }
 
 .imgPerfil{
-    border-radius: 200px 200px 200px 200px;
-    -webkit-border-radius: 200px 200px 200px 200px;
-    -moz-border-radius: 200px 200px 200px 200px;
+    width: 300px;
+      border-radius: 200px 200px 200px 200px;
+      -webkit-border-radius: 200px 200px 200px 200px;
+      -moz-border-radius: 200px 200px 200px 200px;
+      box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
+      -webkit-box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
+      -moz-box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
     display: flex;
     align-items: center;
 }
@@ -37,9 +41,13 @@ body {
   flex-basis: auto;
   align-self: auto;
   order: 0;
+  width: 300px;
   border-radius: 200px 200px 200px 200px;
   -webkit-border-radius: 200px 200px 200px 200px;
   -moz-border-radius: 200px 200px 200px 200px;
+  box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
+  -webkit-box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
+  -moz-box-shadow: 10px 10px 50px 0px rgba(50,50,50,0.75);
 }
 
 h1 {
